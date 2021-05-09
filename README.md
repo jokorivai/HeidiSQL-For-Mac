@@ -1,3 +1,6 @@
+## DEPRECATED AND NOT ANYMORE SUPPORTED 
+
+
 # HeidiSQL For Mac
 HeidiSQL ported to Mac using Winery WineSkin
 
